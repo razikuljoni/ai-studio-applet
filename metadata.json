@@ -1,0 +1,6 @@
+{
+  "name": "Substrata Recordings",
+  "description": "An avant-garde record label landing page featuring a parting portal hero, physical throwable sleeve deck, and dark architectural typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
